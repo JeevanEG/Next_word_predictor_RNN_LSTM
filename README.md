@@ -1,4 +1,4 @@
-```markdown
+
 # 🔤 Next Word Prediction using LSTM RNN
 
 A deep learning project focused on generating the next word in a sequence using a Long Short-Term Memory (LSTM) Recurrent Neural Network. Built and trained using Python and TensorFlow/Keras, the model learns linguistic patterns from a text corpus and predicts contextually appropriate words.
